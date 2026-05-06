@@ -1,3 +1,6 @@
 [submodule "gui_project_intro"]
 	path = gui_project_intro
 	url = https://github.com/fh-school-projects/gui_project_intro
+[submodule "GainSlider"]
+	path = GainSlider
+	url = https://github.com/fh-school-projects/GainSlider
