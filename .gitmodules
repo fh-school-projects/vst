@@ -4,3 +4,6 @@
 [submodule "GainSlider"]
 	path = GainSlider
 	url = https://github.com/fh-school-projects/GainSlider
+[submodule "DelayPlugin"]
+	path = DelayPlugin
+	url = https://github.com/fh-school-projects/DelayPlugin
